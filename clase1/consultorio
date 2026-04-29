@@ -1,0 +1,29 @@
+{"consultorio":"dr.ramirez-clinicaESP"
+    "fecha":"1/4/2026",
+    "turno":[{"numero":"1",
+    "hora":"14:00",
+    "paciente":{"dni":"00000000",
+        "nombre":"Juan Perez"
+    }
+    "medico":{"especialidad":"cardiologia",
+    "nombre":
+    }
+    "observacion":
+    "estado":{"pendiente",
+        "confirmado",
+        "cancelado"
+        }
+
+    
+    
+
+
+
+
+
+
+        "observacion":
+    ]
+
+
+}

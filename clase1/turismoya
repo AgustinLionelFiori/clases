@@ -1,0 +1,59 @@
+<?xml vesion="1.0" encoding="utf-r"?>
+<?catalogo version="1.0"fechaDeGen="1/4/2026"?>
+
+<cat>
+    <destino"id=01">
+        <pais>
+        Argentina
+        </pais>
+        <nombre>
+        Mendoza
+        </nombre>
+        <precioEnUSD>
+        400
+        </precioEnUSD>
+        <duracionEnDias>
+        5
+        </duracionEnDias>
+        <descripcion>
+        Es una provincia argentina muy reconocida por sus vino y viñedos a su vez por sus hermoso paisaje
+        </descripcion>
+    </destino>
+    
+    <destino"id=02">
+        <pais>
+        Francia
+        </pais>
+        <nombre>
+        Paris
+        </nombre>
+        <precioEnUSD>
+        2500
+        </precioEnUSD>
+        <duracionEnDias>
+        7
+        </duracionEnDias>
+        <descripcion>
+        París, la capital de Francia conocida como la Ciudad de la Luz, es un centro mundial de cultura, arte, moda y gastronomía situado a orillas del río Sena
+        </descripcion>
+    </destino>
+
+    <destino"id=03">
+        <pais>
+        Brasil
+        </pais>
+        <nombre>
+        Florianopolis
+        </nombre>
+        <precioEnUSD>
+        1600
+        </precioEnUSD>
+        <duracionEnDias>
+        7
+        </duracionEnDias>
+        <descripcion>
+        Se destaca por sus más de 40 playas de aguas cristalinas, excelente gastronomía marina, historia azoriana y un alto nivel de vida
+        </descripcion>
+    </destino>
+
+</cat>

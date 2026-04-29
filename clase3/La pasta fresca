@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Pasta Fresca!</title>
+</head>
+<body>
+    <header>
+        <h1>La Pasta Fresca SRL</h1>
+        <h2><p><strong>Las mejores pastas de Palermo las encontras acá, riquisimas y economicas. Te esperamos!!</strong></p></h2>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#horarios">Nuestros horarios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+        <main>
+        <section id="menu">
+            <h2>Menú del día</h2>
+            <h3>Entradas</h3>
+            <ul>
+                <li>Empanadas de carne cortada a cuchillo</li>
+                <li>Lengua a la vinagreta</li>
+            </ul>
+            <h3>Pastas</h3>
+            <ul>
+                <li>Fetuccine bolognesa</li>
+                <li><mark>Ñoquis (plato del día)</mark></li>
+                <li>Sorrentinos de jamon y queso</li>
+                <li>Ravioles de ricota y verdura</li>
+                <li>Spagetti</li>
+            </ul>
+            <h3>Salsas</h3>
+            <ul>
+                <li>Filetto</li>
+                <li>Bolognesa</li>
+                <li>Salsa Blanca</li>
+                <li>Salsa Roja</li>
+                <li>Salsa Rosa</li>
+            </ul>
+            <h3>Postres</h3>
+            <ul>
+                <li>Flan c/ dulce de leche o crema</li>
+                <li>Budin de Pan c/ Dulce de leche o crema</li>
+                <li>Café</li>
+                <li>Chocotorta</li>
+            </ul>
+        </section>
+        <section id="horarios">
+            <h3>Horarios de atención</h3>
+                <dl>
+                    <dt>Lunes a Viernes</dt>
+                        <dd>10:00 a 00:00 hs</dd>
+                    <dt>Sabados y Domingos</dt>
+                        <dd>11:00 a 22:00 hs</dd>
+                </dl>
+        <p>Las pastas caseras más ricas y antiguas de Palermo te esta esperando!</p>
+        </main>
+
+        <footer id="contacto">
+    <p>
+        <a href="https://www.google.com/maps/place/Il+Quotidiano+Bar+de+Pastas+Palermo/@-34.5793111,-58.4834831,13z/data=!4m10!1m2!2m1!1spastas+palermo!3m6!1s0x95bcb57bd7855555:0x960813a669e00c3f!8m2!3d-34.5793111!4d-58.4113853!15sCg5wYXN0YXMgcGFsZXJtb1oQIg5wYXN0YXMgcGFsZXJtb5IBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlBNRXhmTVVoUkVBReABAPoBBAgAEDs!16s%2Fg%2F11f148h5lf?entry=ttu&g_ep=EgoyMDI2MDQxMi4wIKXMDSoASAFQAw%3D%3D" target="_blank">Nos encontramos acá!</a> |
+    
+        <a href="tel:+541143218765">+54 11 4321-8765</a> |
+
+        <a href="mailto:reserva@lapastafresca.com.ar">Reservas</a>
+    </p>
+</footer>
+</body>
+</html>
