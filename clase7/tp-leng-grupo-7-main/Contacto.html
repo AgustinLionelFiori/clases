@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Conecta Futuro</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./estilos.css">
+    </head>
+<body>
+     <header>
+         <img src="./Imagenes/logo_de_conectar.png" alt="Logo de Conectar" width="200" height="100" loading="lazy">
+        <h1>Conectar Futuro</h1>
+        <h2>Tecnología y aprendizaje para construir nuevas oportunidades</h2>
+
+        <nav>
+            <ul>
+                <li><a href="./Index.html">Inicio</a></li>
+                <li><a href="./nosotros.html">Nosotros</a></li>
+                <li><a href="./programas.html">Programas</a></li>
+                <li><a href="./Contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+        <h2>Sumate como voluntari@</h2>
+        <p>Completa el formulario o escribinos a: <a href="mailto:info@fundar.org.ar">info@conectarFuturo.org.ar</a></p>
+        <form action="#" method="post">
+            <label for="nombre">Nombre y Apellido:</label>
+            <input type="text" id="nombre" name="nombre" placeholder="Ej: Marcos Capo" required>
+            <br>
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="email" placeholder="Ej: marcoscapo123@gmail.com" required>
+            <br>
+            <label for="telefono">Teléfono:</label>
+            <input type="tel" id="telefono" name="telefono" placeholder="Ej: +54 9 11-1234-5678" required>
+            <br>
+            <label for="programa">Programa de interés:</label>
+            <select id="programa" name="programa" required>
+                <option value="">Elegir programa...</option>
+                <option value="plc">Alfabetización Digital</option>
+                <option value="met">Primer Empleo</option>
+                <option value="ec">Ciudadanía Digital Segura</option>
+            </select>
+            <br>
+            <label for="mensaje">Contanos porque queres sumarte!:</label>
+            <textarea name="mensaje" id="mensaje" rows="3" placeholder="Me gustaria unírme porque..."></textarea>
+            <br>
+            <button type="submit">Enviar</button>
+        </form>
+        </section>
+        <section id="horarios">
+            <h3>Horarios de atención</h3>
+                <dl>
+                    <dt>Lunes a Viernes</dt>
+                        <dd>8:00 a 20:00 hs</dd>
+                    <dt>Sabados</dt>
+                        <dd>10:00 a 16:00 hs</dd>
+                </dl>
+        <p>El conocimiento te espera en nuestros talleres!</p>
+        <section>
+            <h3>Donde nos ubicamos</h3>
+                <ul><strong>Moreno:</strong> Avenida Messi 1812</ul>
+                <ul><strong>Merlo:</strong> Avenida  del Libertador 2903</ul>
+                <ul><strong>San Miguel:</strong> Paunero 3066</ul>
+        </section>
+    </main>
+    <footer><small>Conectar Futuro Copyright © 2026</small></footer>
